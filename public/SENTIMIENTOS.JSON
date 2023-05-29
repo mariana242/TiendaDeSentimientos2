@@ -1,0 +1,338 @@
+{
+    "registros": [
+        {
+            "nombre_tienda": "Tienda de Amor",
+            "ubicacion": "Ciudad Romántica",
+            "calificacion": 4.8,
+            "comentarios": [
+                "Un lugar perfecto para celebrar el amor",
+                "El ambiente es muy acogedor",
+                "Recomiendo probar su postre de fresas con chocolate"
+            ]
+        },
+        {
+            "nombre_tienda": "Tienda de Gratitud",
+            "ubicacion": "Villa Agradecida",
+            "calificacion": 4.3,
+            "comentarios": [
+                "Me encanta visitar esta tienda y reflexionar sobre las cosas buenas de la vida",
+                "El personal siempre es amigable y servicial",
+                "Tienen una gran selección de libros inspiradores"
+            ]
+        },
+        {
+            "nombre_tienda": "Tienda de Esperanza",
+            "ubicacion": "Pueblo Esperanzado",
+            "calificacion": 4.6,
+            "comentarios": [
+                "Un lugar reconfortante en tiempos difíciles",
+                "Sus talleres son muy motivadores",
+                "Siempre encuentro palabras de aliento aquí"
+            ]
+        },
+        {
+            "nombre_tienda": "Tienda de Empatía",
+            "ubicacion": "Ciudad Solidaria",
+            "calificacion": 4.2,
+            "comentarios": [
+                "Un lugar donde te sientes comprendido",
+                "El personal escucha activamente y brinda apoyo",
+                "Han creado una comunidad muy unida"
+            ]
+        },
+        {
+            "nombre_tienda": "Tienda de Serenidad",
+            "ubicacion": "Playa Tranquila",
+            "calificacion": 4.9,
+            "comentarios": [
+                "El ambiente es relajante y calmante",
+                "Ofrecen terapias de meditación que son maravillosas",
+                "Siempre salgo renovado después de visitar este lugar"
+            ]
+        },
+        {
+            "nombre_tienda": "Tienda de Alegría",
+            "ubicacion": "Ciudad Feliz",
+            "calificacion": 4.5,
+            "comentarios": [
+                "Excelente lugar para alegrarse",
+                "El personal es muy amable y atento",
+                "Siempre salgo con una sonrisa en el rostro"
+            ]
+        },
+        {
+            "nombre_tienda": "Tienda de Tristeza",
+            "ubicacion": "Pueblo Melancólico",
+            "calificacion": 3.2,
+            "comentarios": [
+                "Un lugar para reflexionar",
+                "Podría mejorar la atención al cliente",
+                "Me sentí un poco más triste después de visitar"
+            ]
+        },
+        {
+            "nombre_tienda": "Tienda de Alegría",
+            "ubicacion": "Ciudad Feliz",
+            "calificacion": 4.5,
+            "comentarios": [
+                "Excelente lugar para alegrarse",
+                "El personal es muy amable y atento",
+                "Siempre salgo con una sonrisa en el rostro"
+            ],
+            "telefono": "123-456-7890",
+            "horario": "Lun-Vie: 9am-6pm"
+        },
+        {
+            "nombre_tienda": "Tienda de Tristeza",
+            "ubicacion": "Pueblo Melancólico",
+            "calificacion": 3.2,
+            "comentarios": [
+                "Un lugar para reflexionar",
+                "Podría mejorar la atención al cliente",
+                "Me sentí un poco más triste después de visitar"
+            ],
+            "telefono": "987-654-3210",
+            "horario": "Mar-Sab: 10am-8pm"
+        },
+        {
+            "nombre_tienda": "Tienda de Esperanza",
+            "ubicacion": "Villa Esperanzada",
+            "calificacion": 4.8,
+            "comentarios": [
+                "Un refugio en tiempos difíciles",
+                "El personal es muy alentador",
+                "Siempre encuentro palabras de esperanza aquí"
+            ],
+            "telefono": "555-123-4567",
+            "horario": "Lun-Dom: 8am-10pm"
+        },
+        {
+            "nombre_tienda": "Tienda de Amor Propio",
+            "ubicacion": "Ciudad de Autoestima",
+            "calificacion": 4.6,
+            "comentarios": [
+                "Un lugar para cuidar de uno mismo",
+                "Ofrecen talleres de crecimiento personal",
+                "Me siento renovado después de visitar este lugar"
+            ],
+            "telefono": "222-333-4444",
+            "horario": "Lun-Sab: 10am-7pm"
+        },
+        {
+            "nombre_tienda": "Tienda de Gratitud",
+            "ubicacion": "Pueblo Agradecido",
+            "calificacion": 4.3,
+            "comentarios": [
+                "Un lugar para reflexionar sobre las bendiciones",
+                "El personal es muy amigable y servicial",
+                "Tienen una gran selección de libros inspiradores"
+            ],
+            "telefono": "999-888-7777",
+            "horario": "Mar-Dom: 9am-5pm"
+        },
+        {
+            "nombre_tienda": "Tienda de Confianza",
+            "ubicacion": "Villa de la Confianza",
+            "calificacion": 4.7,
+            "comentarios": [
+                "Un espacio seguro para compartir",
+                "El personal es muy respetuoso y discreto",
+                "Me siento comprendido y apoyado aquí"
+            ],
+            "telefono": "777-666-5555",
+            "horario": "Lun-Sab: 9am-8pm"
+        },
+        {
+            "nombre_tienda": "Tienda de Serenidad",
+            "ubicacion": "Playa Tranquila",
+            "calificacion": 4.9,
+            "comentarios": [
+                "El ambiente es relajante y calmante",
+                "Ofrecen terapias de meditación que son maravillosas",
+                "Siempre salgo renovado después de visitar este lugar"
+            ],
+            "telefono": "444-555-6666",
+            "horario": "Lun-Dom: 7am-9pm"
+        },
+        {
+            "nombre_tienda": "Tienda de Motivación",
+            "ubicacion": "Ciudad Inspiradora",
+            "calificacion": 4.4,
+            "comentarios": [
+                "Un lugar para encontrar la motivación perdida",
+                "Tienen charlas y eventos motivacionales",
+                "El personal es muy entusiasta y alentador"
+            ],
+            "telefono": "111-222-3333",
+            "horario": "Lun-Vie: 9am-5pm"
+        },
+        {
+            "nombre_tienda": "Tienda de Empatía",
+            "ubicacion": "Ciudad Solidaria",
+            "calificacion": 4.2,
+            "comentarios": [
+                "Un lugar donde te sientes comprendido",
+                "El personal escucha activamente y brinda apoyo",
+                "Han creado una comunidad muy unida"
+            ],
+            "telefono": "888-777-6666",
+            "horario": "Lun-Sab: 10am-6pm"
+        },
+        {
+            "nombre_tienda": "Tienda de Paz Interior",
+            "ubicacion": "Pueblo Tranquilo",
+            "calificacion": 4.6,
+            "comentarios": [
+                "Un refugio para encontrar la paz interior",
+                "Ofrecen clases de yoga y meditación",
+                "El entorno es armonioso y relajante"
+            ],
+            "telefono": "666-777-8888",
+            "horario": "Lun-Dom: 6am-9pm"
+        },
+        {
+            "nombre_tienda": "Tienda de Optimismo",
+            "ubicacion": "Ciudad Positiva",
+            "calificacion": 4.7,
+            "comentarios": [
+                "Un lugar que te llena de energía positiva",
+                "El personal siempre tiene una sonrisa",
+                "Sus productos inspiran optimismo"
+            ],
+            "telefono": "123-456-7890",
+            "horario": "Lun-Vie: 9am-6pm"
+        },
+        {
+            "nombre_tienda": "Tienda de Equilibrio Emocional",
+            "ubicacion": "Pueblo Sereno",
+            "calificacion": 4.3,
+            "comentarios": [
+                "Un espacio para encontrar armonía interna",
+                "Tienen terapias que equilibran las emociones",
+                "El ambiente es tranquilo y acogedor"
+            ],
+            "telefono": "987-654-3210",
+            "horario": "Mar-Sab: 10am-8pm"
+        },
+        {
+            "nombre_tienda": "Tienda de Autoexpresión",
+            "ubicacion": "Villa Creativa",
+            "calificacion": 4.5,
+            "comentarios": [
+                "Un lugar para descubrir tu verdadero yo",
+                "Ofrecen talleres de arte y expresión personal",
+                "El personal es muy inspirador"
+            ],
+            "telefono": "555-123-4567",
+            "horario": "Lun-Dom: 8am-10pm"
+        },
+        {
+            "nombre_tienda": "Tienda de Paz Interior",
+            "ubicacion": "Ciudad Tranquila",
+            "calificacion": 4.8,
+            "comentarios": [
+                "Un oasis de tranquilidad en medio del bullicio",
+                "Sus terapias de relajación son increíbles",
+                "Me siento en paz cada vez que voy"
+            ],
+            "telefono": "222-333-4444",
+            "horario": "Lun-Sab: 10am-7pm"
+        },
+        {
+            "nombre_tienda": "Tienda de Reconexión",
+            "ubicacion": "Pueblo Consciente",
+            "calificacion": 4.2,
+            "comentarios": [
+                "Un lugar para reconectar contigo mismo",
+                "Tienen talleres de mindfulness muy útiles",
+                "El personal es muy conocedor y amable"
+            ],
+            "telefono": "999-888-7777",
+            "horario": "Mar-Dom: 9am-5pm"
+        },
+        {
+            "nombre_tienda": "Tienda de Autoestima",
+            "ubicacion": "Villa Segura",
+            "calificacion": 4.6,
+            "comentarios": [
+                "Un lugar para trabajar en tu autoestima",
+                "Sus terapias son muy efectivas",
+                "El ambiente es acogedor y confiable"
+            ],
+            "telefono": "777-666-5555",
+            "horario": "Lun-Sab: 9am-8pm"
+        },
+        {
+            "nombre_tienda": "Tienda de Autocompasión",
+            "ubicacion": "Pueblo Compasivo",
+            "calificacion": 4.4,
+            "comentarios": [
+                "Un espacio para aprender a ser amable contigo mismo",
+                "Tienen talleres de autocompasión muy valiosos",
+                "El personal es cálido y comprensivo"
+            ],
+            "telefono": "111-222-3333",
+            "horario": "Lun-Vie: 9am-5pm"
+        },
+        {
+            "nombre_tienda": "Tienda de Superación Personal",
+            "ubicacion": "Ciudad de Transformación",
+            "calificacion": 4.2,
+            "comentarios": [
+                "Un lugar que te ayuda a alcanzar tu mejor versión",
+                "Tienen recursos y herramientas de desarrollo personal",
+                "El personal te anima a superar tus limitaciones"
+            ],
+            "telefono": "888-777-6666",
+            "horario": "Lun-Sab: 10am-6pm"
+        },
+        {
+            "nombre_tienda": "Tienda de Equilibrio Interior",
+            "ubicacion": "Villa Armónica",
+            "calificacion": 4.6,
+            "comentarios": [
+                "Un lugar para encontrar el equilibrio interno",
+                "Ofrecen terapias holísticas muy efectivas",
+                "El ambiente es sereno y relajante"
+            ],
+            "telefono": "666-777-8888",
+            "horario": "Lun-Dom: 6am-9pm"
+        },
+        {
+            "nombre_tienda": "Tienda de Aceptación",
+            "ubicacion": "Ciudad de la Tolerancia",
+            "calificacion": 4.5,
+            "comentarios": [
+                "Un espacio donde te sientes aceptado y valorado",
+                "El personal fomenta un ambiente inclusivo",
+                "Me siento libre para ser yo mismo aquí"
+            ],
+            "telefono": "123-456-7890",
+            "horario": "Lun-Vie: 9am-6pm"
+        },
+        {
+            "nombre_tienda": "Tienda de Reconfort",
+            "ubicacion": "Pueblo Acogedor",
+            "calificacion": 4.3,
+            "comentarios": [
+                "Un lugar para encontrar consuelo en momentos difíciles",
+                "El personal es muy empático y compasivo",
+                "Ofrecen actividades terapéuticas muy reconfortantes"
+            ],
+            "telefono": "987-654-3210",
+            "horario": "Mar-Sab: 10am-8pm"
+        },
+        {
+            "nombre_tienda": "Tienda de Empoderamiento",
+            "ubicacion": "Villa de la Fortaleza",
+            "calificacion": 4.7,
+            "comentarios": [
+                "Un lugar que te empodera para alcanzar tus metas",
+                "Tienen talleres de desarrollo personal muy motivadores",
+                "El personal te impulsa a creer en ti mismo"
+            ],
+            "telefono": "555-123-4567",
+            "horario": "Lun-Dom: 8am-10pm"
+        }
+    ]
+}
